@@ -1,0 +1,14 @@
+{
+	"name": "promise",
+	"version": "1.0.0",
+	"description": "a promise demo written by typescript",
+	"main": "./dist/index.js",
+	"scripts": {
+		"test": "ts-node src/test"
+	},
+	"author": "enside",
+	"license": "ISC",
+	"devDependencies": {
+		"promises-aplus-tests": "^2.1.2"
+	}
+}
